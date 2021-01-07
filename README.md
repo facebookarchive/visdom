@@ -1,3 +1,6 @@
+_Ownership of this project has been transferred to [fossasia/visdom](https://github.com/fossasia/visdom). See [the announcement post](https://blog.fossasia.org/welcome-the-visdom-project-at-fossasia-now-fully-open-source/) for more details. We have preserved a snapshot of the project in its state before transferring ownership._
+
+* * *
 
 # **Visdom**
 
@@ -611,9 +614,9 @@ The following `opts` are supported:
 - `opts.top` :  Set the top margin of the plot
 - `opts.bottom` :  Set the bottom margin of the plot
 - `opts.right` :  Set the right margin of the plot
-- `opts.left` :  Set the left margin of the plot   
+- `opts.left` :  Set the left margin of the plot
 
-This is the image of the output:  
+This is the image of the output:
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/33365560/77659609-4c123900-6f9e-11ea-9954-b73fbda24a29.gif" width="400" /></p>
 
 ### Customizing plots
